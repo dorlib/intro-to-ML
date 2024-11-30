@@ -9,7 +9,7 @@ import intervals
 
 
 class Assignment2(object):
-    """Assignment 2 skeleton.
+    """Assignment 2 skeleton
 
     Please use these function signatures for this assignment and submit this file, together with the intervals.py.
     """
