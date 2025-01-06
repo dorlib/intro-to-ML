@@ -18,7 +18,7 @@ def find_best_interval(xs, ys, k):
     
     # The minimal error of j intervals on 0 points - always 0. No update needed.        
         
-    # Fill middle
+    # Fill middle.
     for i in range(1, m+1):
         for j in range(1, k+1):
             # The minimal error of j intervals on the first i points:
